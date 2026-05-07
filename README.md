@@ -1,4 +1,4 @@
-# Scientific Calculator Project (Procedural vs OOP)
+# Calculator Project (Procedural vs OOP)
 
 ## 📌 Introduction
 The purpose of this project is to develop a Scientific Calculator that performs basic arithmetic operations:
